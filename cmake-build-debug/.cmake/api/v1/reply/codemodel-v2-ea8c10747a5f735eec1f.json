@@ -1,0 +1,447 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "auditoriski",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop1-Debug-5034fdc55a1147a408f4.json",
+					"name" : "kolokvium2dop1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop10-Debug-7c47f6fbe1e75ea91935.json",
+					"name" : "kolokvium2dop10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop11-Debug-fccce383f2d71de708b4.json",
+					"name" : "kolokvium2dop11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop12-Debug-201e18fe08ef853062c3.json",
+					"name" : "kolokvium2dop12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop2-Debug-d1366fe8eab5ab98617e.json",
+					"name" : "kolokvium2dop2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop3-Debug-99dc7a5c398770b25c8e.json",
+					"name" : "kolokvium2dop3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop4-Debug-eb4de29d1beb85968866.json",
+					"name" : "kolokvium2dop4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop5-Debug-0143a5f8d44f732ed0da.json",
+					"name" : "kolokvium2dop5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop6-Debug-c31d4e9031da81da3a19.json",
+					"name" : "kolokvium2dop6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop7-Debug-39e73e2c4e817bc9fa02.json",
+					"name" : "kolokvium2dop7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop8-Debug-b48f7e981af37c0e2998.json",
+					"name" : "kolokvium2dop8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2dop9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2dop9-Debug-2184bdd91cf99925d9c9.json",
+					"name" : "kolokvium2dop9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk1-Debug-abd8578ef7a5b4efeccf.json",
+					"name" : "kolokvium2mk1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk10-Debug-2a0c9eb35bce56866d71.json",
+					"name" : "kolokvium2mk10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk11-Debug-a95e4de6153984dcec82.json",
+					"name" : "kolokvium2mk11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk12-Debug-0df99d193c86c1adb3b0.json",
+					"name" : "kolokvium2mk12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk13-Debug-80a5b6888e51904e3e32.json",
+					"name" : "kolokvium2mk13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk14-Debug-0d42c0fc0034aad67e7e.json",
+					"name" : "kolokvium2mk14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk15-Debug-a09e9f79deb3e300465e.json",
+					"name" : "kolokvium2mk15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk16-Debug-b4054c6750541a727093.json",
+					"name" : "kolokvium2mk16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk17-Debug-607cabbf5d2a01b2fe4c.json",
+					"name" : "kolokvium2mk17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk18-Debug-c252117922e6ec4517e1.json",
+					"name" : "kolokvium2mk18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk19-Debug-59382612a75b2548ac63.json",
+					"name" : "kolokvium2mk19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk2-Debug-8b036e7035b8b03a5c1f.json",
+					"name" : "kolokvium2mk2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20231::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20231-Debug-9037c58ed9e1eb1f7f54.json",
+					"name" : "kolokvium2mk20231",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk202310::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk202310-Debug-4b6547617d10132f6baa.json",
+					"name" : "kolokvium2mk202310",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk202311::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk202311-Debug-591d8a4bf18e24c0ac61.json",
+					"name" : "kolokvium2mk202311",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk202312::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk202312-Debug-b69540e16e5ba0a2ceae.json",
+					"name" : "kolokvium2mk202312",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20232::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20232-Debug-ec821c31eede9db2d7b3.json",
+					"name" : "kolokvium2mk20232",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20233::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20233-Debug-a72ab4b393f72ca2e702.json",
+					"name" : "kolokvium2mk20233",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20234::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20234-Debug-3cdc3d751648d2c2da0a.json",
+					"name" : "kolokvium2mk20234",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20235::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20235-Debug-05f339558d494e81375c.json",
+					"name" : "kolokvium2mk20235",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20236::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20236-Debug-f9753d9f7f91ca3ebfea.json",
+					"name" : "kolokvium2mk20236",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20237::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20237-Debug-cc49f73523071c4f3ab3.json",
+					"name" : "kolokvium2mk20237",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20238::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20238-Debug-bcc3ab3adcd580f00cb4.json",
+					"name" : "kolokvium2mk20238",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk20239::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk20239-Debug-fe06aa27fca521013ebf.json",
+					"name" : "kolokvium2mk20239",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk3-Debug-eb211365121ef4f68125.json",
+					"name" : "kolokvium2mk3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk4-Debug-9ff70f90529cda1d8045.json",
+					"name" : "kolokvium2mk4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk5-Debug-7df083ef549e91340000.json",
+					"name" : "kolokvium2mk5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk6-Debug-ed7c54f4669afe26f6fa.json",
+					"name" : "kolokvium2mk6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk7-Debug-7731d0722ddb4a8f3269.json",
+					"name" : "kolokvium2mk7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk8-Debug-eb4ed3fa82184b82fa63.json",
+					"name" : "kolokvium2mk8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokvium2mk9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokvium2mk9-Debug-5a2b4444322cc58f1d1e.json",
+					"name" : "kolokvium2mk9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolokviumvtorvvkn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolokviumvtorvvkn-Debug-c5d8df35bf656a0439e5.json",
+					"name" : "kolokviumvtorvvkn",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/asana/CLionProjects/auditoriski/cmake-build-debug",
+		"source" : "C:/Users/asana/CLionProjects/auditoriski"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
